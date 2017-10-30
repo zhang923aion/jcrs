@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+
+.container {
+	height: 560px;
+	margin-top: 100px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.topBanner {
+	margin: 60px 0px 0px 60px;
+	height: 76px;
+}
+
+.logo_ax_img {
+	float: left;
+	border-right: 1.5px solid #15a230;
+}
+
+.logo_ax_title {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "隶书";
+	padding-top: 10px;
+	margin-left: 200px;
+}
+
+.topLine {
+	border-top: 2px solid #4CAF50;
+	margin: 5px 10px;
+	padding-top: 90px;
+}
+
+.login_slogan {
+	float: left;
+	padding-left: 150px;
+	border-right: 1px solid #15a230;
+}
+
+.login_box {
+	width: 250px;
+	margin-left: 600px;
+	margin-top: 30px;
+}

@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+/* 覆盖 bootstrap 
+   ========================================================================== */
+.input-group-addon {
+	color: #F39700;
+}
+
+.form-group {
+	margin: 5px 10px;
+}
+
+.listBox .glyphicon {
+	color: #ce8100;
+}
+
+.input-group {
+	margin-bottom: 10px;
+}
+
+.thumbnail {
+	padding: 0 0 5px;
+	margin-bottom: 5px;
+}
+
+.btn-link {
+	padding: 0 0 0 5px;
+}
+
+.breadcrumb {
+	margin-bottom: 2px;
+	font-size: 12px;
+}
+
+a {
+	color: #000;
+}
+
+.pointer-cursor {
+	cursor: pointer;
+}
+
+/* 样式
+   ========================================================================== */
+.breadcrumb  a {
+	color: #F39700;
+}
+
+.breadcrumb>.active {
+	color: #F39700;
+}
